@@ -1,14 +1,24 @@
 {
   "name": "practice",
   "version": "1.0.0",
-  "description": "practice for making npm package",
+  "description": "npm package publishing practice",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/andriussvilys/npmPractice.git"
+  },
   "keywords": [
-    "package"
+    "package",
+    "publish",
+    "scope"
   ],
   "author": "Andrius Svilys",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andriussvilys/npmPractice/issues"
+  },
+  "homepage": "https://github.com/andriussvilys/npmPractice#readme"
 }
