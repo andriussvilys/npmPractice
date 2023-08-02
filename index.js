@@ -1,5 +1,3 @@
-const echo = (msg) => {
+exports.echo = (msg) => {
 	console.log(msg);
 };
-
-export { echo };
