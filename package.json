@@ -1,6 +1,6 @@
 {
 	"name": "@andriussvilys/practice",
-	"version": "2.1.1",
+	"version": "2.1.2",
 	"description": "npm package publishing practice",
 	"main": "index.js",
 	"scripts": {
