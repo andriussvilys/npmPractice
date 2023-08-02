@@ -1,3 +1,3 @@
-exports.echo = (msg) => {
+exports.echo = function (msg) {
 	console.log(msg);
 };
